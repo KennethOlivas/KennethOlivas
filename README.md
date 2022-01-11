@@ -15,3 +15,12 @@
 ## Frameworks, Platforms and Libraries 🛠
 | <img align="center" atl="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=BE90F2&color=1A1B27"/> | <img align="center" atl="svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=BE90F2&color=1A1B27"/> | <img align="center" atl="svelte" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=BE90F2&color=1A1B27"/> | <img align="center" atl="svelte" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=BE90F2&color=1A1B27"/> | <img align="center" atl="svelte" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=BE90F2&color=1A1B27"/>  | <img align="center" atl="svelte" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=BE90F2&color=1A1B27"/> |
 |--|--|--|--|--|--|
+
+### Connect with me 👔
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/kenneth_olivas
+[linkedin]: https://www.linkedin.com/in/kenneth-olivas-027153208
