@@ -1,6 +1,8 @@
 
 # Hello there, Kenneth Olivas ☺👋
 
+> `Experienced Web Developer adept in all stages of advanced web development. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.`
+
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=KennethOlivas&show_icons=true&theme=tokyonight"/>
 
