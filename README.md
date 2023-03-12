@@ -1,7 +1,7 @@
 
 # Hello there, Kenneth Olivas ☺👋
 
-> ### I’m Kenneth Olivas, a student of a software engineer. I’ve been developing webs applications for a half year, using JavaScript, Svelte, and Python. I am looking for an opportunity to grow as a developer in web application development companies such as Amazon, Google, and Microsoft. Able to effectively self-manage during independent projects as well as collaborate in a team setting.
+> ### I’m Kenneth Olivas, a a software engineer. I’ve been developing webs applications for years, using programing languajes like Typescript and Python. I am looking for an opportunity to grow as a developer in web application development companies. Able to effectively self-manage during independent projects as well as collaborate in a team setting.
 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=KennethOlivas&show_icons=true&theme=tokyonight"/>
