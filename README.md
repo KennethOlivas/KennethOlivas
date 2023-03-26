@@ -6,7 +6,7 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=KennethOlivas&show_icons=true&theme=radical&count_private=true"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical&count_private=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethOlivas&layout=compact&show_icons=true&theme=radical&count_private=true"/>
 
 ## Programming Languages 🤩
 | <img align="center" atl="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=5E87CE&color=1A1B27"/> | <img align="center" atl="pyhton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=5E87CE&color=1A1B27"/> |<img align="center" atl="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=5E87CE&color=1A1B27"/>  | <img align="center" atl="kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=5E87CE&color=1A1B27"/> |<img align="center" atl="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=5E87CE&color=1A1B27"/>| <img align="center" atl="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=5E87CE&color=1A1B27"/>| 
